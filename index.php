@@ -10,7 +10,7 @@
         <br>
         <a href="http://www.it.kmitl.ac.th">Link to IT KMITL Website</a>
         <br>
-        <a href="https://github.com/whitewolf5432/Lab_ITF_2563"><img src="cat.jpg"></a>
+        <a href="https://github.com/whitewolf5432/Lab_ITF_2563"><img src="cat.jpg"/></a>
         <p>สวัสดีครับผมชื่อนายณัฐพัชร์ บัวคำโคตร์ ชื่อเล่นโปรแกรม หรือที่หลายๆคนเรียกว่า แกรม
             วันนี้ผมก็จะเล่าเรื่องตลกที่ตลกที่สุดในชีวิตของผมตั้งแต่ผมเกิดมาจากท้องแม่
             โดยการมีเพศสัมพันธุ์ของคุณพ่อและคุณแม่ของผม และก็ต้องรออีก 9 เดือนกว่าผมจะเกิด
